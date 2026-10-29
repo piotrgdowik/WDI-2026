@@ -6,7 +6,7 @@ int main()
     int suma = 0; 
     int max;
     int min;
-//dopoki parzysta
+//do momentu wpisania parzystej
     do 
     {
         printf("Podaj liczbe: \n");
