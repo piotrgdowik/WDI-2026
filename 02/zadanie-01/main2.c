@@ -6,7 +6,7 @@ int main()
     int suma = 0; 
     int max;
     int min;
-  //nieparzyste
+  //do momentu wpisania nieparzystej
     do 
     {
         printf("Podaj liczbe: \n");
