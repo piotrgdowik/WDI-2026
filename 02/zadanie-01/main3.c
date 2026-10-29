@@ -31,9 +31,9 @@ int main()
         
     } while (a != 0);
 
-    if (ile > 0) {
+    if (ile > 0)
         printf("Srednia: %.2f \nSuma: %d \nMax: %d \nMin: %d \n", (float)suma / ile, suma, max, min);
-    }
+    
 
     return 0;
 }
